@@ -30,7 +30,7 @@ class _MyAppState extends State<MyAppMaps> {
   );
 
   CameraPosition _anotherPosition = CameraPosition(
-    target: LatLng(-6.3753924, 106.9271528),
+    target: LatLng(-7.716402, 112.101896),
     zoom: 15.0,
   );
 
